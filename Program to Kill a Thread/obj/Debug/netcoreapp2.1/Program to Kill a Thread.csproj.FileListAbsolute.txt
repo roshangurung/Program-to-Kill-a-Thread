@@ -1,0 +1,11 @@
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Program to Kill a Thread\Program to Kill a Thread\bin\Debug\netcoreapp2.1\Program to Kill a Thread.deps.json
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Program to Kill a Thread\Program to Kill a Thread\bin\Debug\netcoreapp2.1\Program to Kill a Thread.runtimeconfig.json
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Program to Kill a Thread\Program to Kill a Thread\bin\Debug\netcoreapp2.1\Program to Kill a Thread.runtimeconfig.dev.json
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Program to Kill a Thread\Program to Kill a Thread\bin\Debug\netcoreapp2.1\Program to Kill a Thread.dll
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Program to Kill a Thread\Program to Kill a Thread\bin\Debug\netcoreapp2.1\Program to Kill a Thread.pdb
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Program to Kill a Thread\Program to Kill a Thread\obj\Debug\netcoreapp2.1\Program to Kill a Thread.csprojAssemblyReference.cache
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Program to Kill a Thread\Program to Kill a Thread\obj\Debug\netcoreapp2.1\Program to Kill a Thread.csproj.CoreCompileInputs.cache
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Program to Kill a Thread\Program to Kill a Thread\obj\Debug\netcoreapp2.1\Program to Kill a Thread.AssemblyInfoInputs.cache
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Program to Kill a Thread\Program to Kill a Thread\obj\Debug\netcoreapp2.1\Program to Kill a Thread.AssemblyInfo.cs
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Program to Kill a Thread\Program to Kill a Thread\obj\Debug\netcoreapp2.1\Program to Kill a Thread.dll
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Program to Kill a Thread\Program to Kill a Thread\obj\Debug\netcoreapp2.1\Program to Kill a Thread.pdb
